@@ -1,0 +1,1 @@
+export const ayuColor = '#00C3DE'
